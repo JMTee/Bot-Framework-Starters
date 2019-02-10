@@ -1,6 +1,6 @@
-#Bot Framework Starters
+# Bot Framework Starters
 
-##Pre-requisites
+## Pre-requisites
 - Create an account in LUIS - [https://www.luis.ai/](https://www.luis.ai/)
 - Download and install Visual Studio Code - [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
 - Download and Install Node.JS - [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
